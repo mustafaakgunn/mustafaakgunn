@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafaakgunn&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaakgunn" /> </p>
 
-- 🔭 I’m currently working for **KoçSistem**
 
-- 📫 How to reach me **mustafaakgundev@gmail.com**
+- 📫 You can reach me via: **mustafaakgundev@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
