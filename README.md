@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mustafa Akgün</h1>
 <h3 align="center">A Cloud/DevOps Engineer from Turkey!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafaakgunn&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaakgunn" /> </p>
-
-
 - 📫 You can reach me via: **mustafaakgundev@gmail.com**
 
 <p align="left">
